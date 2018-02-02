@@ -32,8 +32,8 @@
           <br> <p  style="font-family: Calibri;" > 
               &nbsp &nbsp &nbsp &nbsp &nbsp The <b>ResNet Playground</b> is powered by the ResNet50 model trained
               on the ImageNet dataset. You can find its source codes in the <i>resnet-playground</i> folder
-               of this repository or follow this <a href="" >link</a>. You can also download the Windows Installer
-                for the program in the Release section of this project or follow this <a href="" >link</a>.<br>
+               of this repository or follow this <a href="https://github.com/OlafenwaMoses/Model-Playgrounds/tree/master/resnet-playground" >link</a>. You can also download the Windows Installer
+                for the program in the Release section of this project or follow this <a href="https://github.com/OlafenwaMoses/Model-Playgrounds/releases/download/v1.0/ResNet.Playground.1.0.exe" >link</a>.<br>
                 &nbsp &nbsp &nbsp &nbsp &nbsp This program is a Windows 64-bit software that can be installed on
                 Windows 7 and later versions of the Operating System. It has an installer size of 227mb and install
                  size of 690mb. The program was compiled using PyInstaller 3.3 for Python 3.5 . 
@@ -43,8 +43,8 @@
           <br><p  style="font-family: Calibri;" > 
               &nbsp &nbsp &nbsp &nbsp &nbsp The <b>DenseNet Playground</b> is powered by the DenseNet121 model trained
               on the ImageNet dataset. You can find its source codes in the <i>densenet-playground</i> folder
-               of this repository or follow this <a href="" >link</a>. You can also download the Windows Installer
-                for the program in the Release section of this project or follow this <a href="" >link</a>.<br>
+               of this repository or follow this <a href="https://github.com/OlafenwaMoses/Model-Playgrounds/tree/master/densenet-playground" >link</a>. You can also download the Windows Installer
+                for the program in the Release section of this project or follow this <a href="https://github.com/OlafenwaMoses/Model-Playgrounds/releases/download/v1.0/DenseNet.Playground.1.0.exe" >link</a>.<br>
                 &nbsp &nbsp &nbsp &nbsp &nbsp This program is a Windows 64-bit software that can be installed on
                 Windows 7 and later versions of the Operating System. It has an installer size of 166mb and install
                  size of 623mb. The program was compiled using PyInstaller 3.3 for Python 3.5 . 
@@ -52,21 +52,21 @@
           <br>
           <img src="images/squeezenet_demo.png" style="max-width: 600px; height: auto;" />
           <br><p  style="font-family: Calibri;" > 
-              &nbsp &nbsp &nbsp &nbsp &nbsp The <b>DenseNet Playground</b> is powered by the DenseNet121 model trained
-              on the ImageNet dataset. You can find its source codes in the <i>densenet-playground</i> folder
-               of this repository or follow this <a href="" >link</a>. You can also download the Windows Installer
-                for the program in the Release section of this project or follow this <a href="" >link</a>.<br>
+              &nbsp &nbsp &nbsp &nbsp &nbsp The <b>SqueezeNet Playground</b> is powered by the SqueezeNet model trained
+              on the ImageNet dataset. You can find its source codes in the <i>squeezenet-playground</i> folder
+               of this repository or follow this <a href="https://github.com/OlafenwaMoses/Model-Playgrounds/tree/master/squeezenet-playground" >link</a>. You can also download the Windows Installer
+                for the program in the Release section of this project or follow this <a href="https://github.com/OlafenwaMoses/Model-Playgrounds/releases/download/v1.0/SqueezeNet.Playground.1.0.exe" >link</a>.<br>
                 &nbsp &nbsp &nbsp &nbsp &nbsp This program is a Windows 64-bit software that can be installed on
-                Windows 7 and later versions of the Operating System. It has an installer size of 166mb and install
-                 size of 623mb. The program was compiled using PyInstaller 3.3 for Python 3.5 . 
+                Windows 7 and later versions of the Operating System. It has an installer size of 142mb and install
+                 size of 596mb. The program was compiled using PyInstaller 3.3 for Python 3.5 . 
           </p><br><br> <h2 style="font-family: Calibri;" ><b>>> Inception Playground</b></h2>
           <br>
           <img src="images/inception_demo.png" style="max-width: 600px; height: auto;" />
           <br> <p  style="font-family: Calibri;" > 
               &nbsp &nbsp &nbsp &nbsp &nbsp The <b>Inception Playground</b> is powered by the Inception V3 model trained
               on the ImageNet dataset. You can find its source codes in the <i>inception-playground</i> folder
-               of this repository or follow this <a href="" >link</a>. You can also download the Windows Installer
-                for the program in the Release section of this project or follow this <a href="" >link</a>.<br>
+               of this repository or follow this <a href="https://github.com/OlafenwaMoses/Model-Playgrounds/tree/master/inception-playground" >link</a>. You can also download the Windows Installer
+                for the program in the Release section of this project or follow this <a href="https://github.com/OlafenwaMoses/Model-Playgrounds/releases/download/v1.0/Inception.Playground.1.0.exe" >link</a>.<br>
                 &nbsp &nbsp &nbsp &nbsp &nbsp This program is a Windows 64-bit software that can be installed on
                 Windows 7 and later versions of the Operating System. It has an installer size of 221mb and install
                  size of 686mb. The program was compiled using PyInstaller 3.3 for Python 3.5 . 
