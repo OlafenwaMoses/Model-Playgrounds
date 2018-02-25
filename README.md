@@ -15,7 +15,7 @@
         dataset. Each program provides a user interface where users can select a picture from their Windows system folder
         while the program process the selected picture and give top-10 possible results of the objects detected with
         percentage probability per each result. <br><br>
-        &nbsp &nbsp &nbsp &nbsp This repository contains the source code, models and builds of each of the programs in the
+        &nbsp &nbsp &nbsp &nbsp &nbsp This repository contains the source code, models and builds of each of the programs in the
         <b>Model Playgrounds </b> series. It is provided to allow other developers outside our team to adapt, modify or extend
          the code to produce more programs that may be specific to a social, business, economic or scientific need. <br> <br>
          &nbsp &nbsp &nbsp &nbsp The dependencies used for this project are listed below: <br>
